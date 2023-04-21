@@ -1,0 +1,9 @@
+2023-04-17 07:02:09,298 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-17 07:31:39,624 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bytebank:1.0-SNAPSHOT @ C:\Users\Vitor Hugo\Documents\jdbc-java-alura\byte-bank-alura-curso_jdbc_inicio\pom.xml.
+2023-04-17 07:31:42,123 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /byte-bank-alura-curso_jdbc_inicio/src/main/java
+2023-04-17 07:31:42,125 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /byte-bank-alura-curso_jdbc_inicio/src/test/java
+2023-04-17 07:31:44,361 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-04-17 07:31:48,565 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:31:48,566 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Vitor Hugo\Documents\jdbc-java-alura\byte-bank-alura-curso_jdbc_inicio\src\main\resources
+2023-04-17 07:31:48,571 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:31:48,572 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Vitor Hugo\Documents\jdbc-java-alura\byte-bank-alura-curso_jdbc_inicio\src\test\resources
